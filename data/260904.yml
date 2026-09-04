@@ -1,11 +1,13 @@
 about:
-  description: Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
+  description:
+  |
+    Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
   license: NOASSERTION
   homepage: https://crates.io/crates/domain-check
   head: fa7b99a
   archived: false
   latestVersion: v1.0.2
-  collectedAt: 2026-09-04T03:34:07Z
+  collectedAt: 2026-09-04T19:19:13Z
 timeline:
   created: 2025-04-12
   lastCommit: 2026-05-14
@@ -16,15 +18,23 @@ popularity:
   fork: 19
   release: 10
   contributor: 3
-  pullRequest: 0
+  pullRequest: 20
   issue: 12
 language:
   Rust: 433767
   Shell: 8130
-totalLine: 441897
+totalBytes: 441897
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 3
     openIssue: 3
     commit: 69
+  last720d:
+    since: 2024-09-14
+    release: 10
+    mergedPR: 20
+    openPR: 0
+    closedIssue: 8
+    openIssue: 4
+    commit: 154
+total:
+  release: 10
+  mergedPR: 20
+  openPR: 0
+  closedIssue: 8
+  openIssue: 4
+  commit: 154
+---
+---
+
