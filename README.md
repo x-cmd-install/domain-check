@@ -23,11 +23,30 @@ x install domain-check
 - **Latest**: `v1.0.2` (2026-03-22)
 - **Last commit**: 2026-05-14
 - **Assets in release**: 15
-- **Published**: 2026-03-22T08:04:15Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [domain-check-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-linux-x86_64-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
+| [domain-check-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-linux-x86_64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [domain-check-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [domain-check-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-macos-x86_64.tar.gz) | 1.6 MiB | `native/darwin/x64` |
+| [domain-check-mcp-linux-x86_64-musl.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64-musl.mcpb) | 2.2 MiB | `native/linux/x64/musl` |
+| [domain-check-mcp-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64-musl.tar.gz) | 2.2 MiB | `native/linux/x64/musl` |
+| [domain-check-mcp-linux-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64.mcpb) | 2.1 MiB | `native/linux/x64` |
+| [domain-check-mcp-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [domain-check-mcp-macos-aarch64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-aarch64.mcpb) | 1.8 MiB | `native/darwin/arm64` |
+| [domain-check-mcp-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-aarch64.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
+| [domain-check-mcp-macos-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-x86_64.mcpb) | 2.0 MiB | `native/darwin/x64` |
+| [domain-check-mcp-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-x86_64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
+| [domain-check-mcp-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-windows-x86_64.exe.zip) | 1.9 MiB | `native/win/x64` |
+| [domain-check-mcp-windows-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-windows-x86_64.mcpb) | 1.9 MiB | `native/win/x64` |
+| [domain-check-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-windows-x86_64.exe.zip) | 1.5 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 307 · **Forks**: 19 · **Open issues**: 12 · **Contributors**: 3
+- **Stars**: 307 · **Forks**: 20 · **Open issues**: 12 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -58,8 +77,8 @@ Total: **9,787** lines of code across **28** files in the top 5 languages.
 Install metadata for domain-check lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `domain-check` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/domain-check.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/domain-check.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:07:45Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:02Z._

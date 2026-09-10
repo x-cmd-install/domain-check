@@ -4,7 +4,7 @@
 
 Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
 
-![domain-check](https://repo.x-cmd.io/domain-check.svg)
+![domain-check](https://repo.x-cmd.io/domain-check.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,30 @@ x install domain-check
 - **最新版本**: `v1.0.2` (2026-03-22)
 - **最近提交**: 2026-05-14
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-03-22T08:04:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [domain-check-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-linux-x86_64-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
+| [domain-check-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-linux-x86_64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [domain-check-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [domain-check-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-macos-x86_64.tar.gz) | 1.6 MiB | `native/darwin/x64` |
+| [domain-check-mcp-linux-x86_64-musl.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64-musl.mcpb) | 2.2 MiB | `native/linux/x64/musl` |
+| [domain-check-mcp-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64-musl.tar.gz) | 2.2 MiB | `native/linux/x64/musl` |
+| [domain-check-mcp-linux-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64.mcpb) | 2.1 MiB | `native/linux/x64` |
+| [domain-check-mcp-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [domain-check-mcp-macos-aarch64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-aarch64.mcpb) | 1.8 MiB | `native/darwin/arm64` |
+| [domain-check-mcp-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-aarch64.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
+| [domain-check-mcp-macos-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-x86_64.mcpb) | 2.0 MiB | `native/darwin/x64` |
+| [domain-check-mcp-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-x86_64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
+| [domain-check-mcp-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-windows-x86_64.exe.zip) | 1.9 MiB | `native/win/x64` |
+| [domain-check-mcp-windows-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-windows-x86_64.mcpb) | 1.9 MiB | `native/win/x64` |
+| [domain-check-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-windows-x86_64.exe.zip) | 1.5 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 307 · **Fork**: 19 · **开放 issue**: 12 · **贡献者**: 3
+- **Star**: 307 · **Fork**: 20 · **开放 issue**: 12 · **贡献者**: 3
 
 ## 累计统计
 
@@ -62,4 +81,4 @@ domain-check 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:07:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:03Z._
