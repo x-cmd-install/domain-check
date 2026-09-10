@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.2"
   latestRelease: "v1.0.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T02:07:39Z
+  collectedAt: 2026-09-10T15:58:54Z
 timeline:
   created: 2025-04-12
   lastCommit: 2026-05-14
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 307
   watcher: 2
-  fork: 19
+  fork: 20
   release: 10
   contributor: 3
   pullRequest: 20
@@ -84,7 +84,7 @@ total:
   commit: 154
 ---
 path: /home/runner/.x-repo/github.com/saidutt46/domain-check
-collectedAt: 2026-09-10T02:07:39Z
+collectedAt: 2026-09-10T15:58:55Z
 loc:
   Rust:
     code: 9421
