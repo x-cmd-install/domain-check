@@ -14,13 +14,13 @@ x install domain-check
 
 ## Code insight
 
-Total: **9,787** lines of code across **28** files in the top 5 languages.
+Total: **9,804** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,421 | 700 | 1,568 | 19 |
+| Rust | 9,432 | 703 | 1,565 | 19 |
 | Sh | 185 | 48 | 57 | 1 |
-| Toml | 133 | 78 | 51 | 6 |
+| Toml | 139 | 78 | 51 | 6 |
 | Json | 36 | 0 | 0 | 1 |
 | Yaml | 10 | 0 | 0 | 1 |
 
@@ -32,8 +32,8 @@ Total: **9,787** lines of code across **28** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.2` (2026-03-22)
-- **Last commit**: 2026-05-14
+- **Latest**: `v1.0.3` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,38 +42,38 @@ Total: **9,787** lines of code across **28** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 154
+- **Releases**: 11 · **Merged PRs**: 22 · **Open PRs**: 2 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-01 | 0 | 1 | 0 | 0 | 1 | 1 |
-| 360d | 2025-10-03 | 8 | 11 | 0 | 4 | 3 | 69 |
-| last720d | 2024-10-08 | 10 | 20 | 0 | 9 | 4 | 154 |
+| 30d | 2026-08-30 | 1 | 2 | 2 | 0 | 1 | 7 |
+| last60d | 2026-07-31 | 1 | 2 | 2 | 0 | 1 | 7 |
+| 90d | 2026-07-01 | 1 | 2 | 2 | 0 | 1 | 7 |
+| last180d | 2026-04-02 | 1 | 3 | 2 | 0 | 1 | 8 |
+| 360d | 2025-10-04 | 9 | 13 | 2 | 4 | 3 | 76 |
+| last720d | 2024-10-09 | 11 | 22 | 2 | 9 | 4 | 163 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [domain-check-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-linux-x86_64-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
-| [domain-check-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-linux-x86_64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [domain-check-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
-| [domain-check-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-macos-x86_64.tar.gz) | 1.6 MiB | `native/darwin/x64` |
-| [domain-check-mcp-linux-x86_64-musl.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64-musl.mcpb) | 2.2 MiB | `native/linux/x64/musl` |
-| [domain-check-mcp-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64-musl.tar.gz) | 2.2 MiB | `native/linux/x64/musl` |
-| [domain-check-mcp-linux-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64.mcpb) | 2.1 MiB | `native/linux/x64` |
-| [domain-check-mcp-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-linux-x86_64.tar.gz) | 2.1 MiB | `native/linux/x64` |
-| [domain-check-mcp-macos-aarch64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-aarch64.mcpb) | 1.8 MiB | `native/darwin/arm64` |
-| [domain-check-mcp-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-aarch64.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
-| [domain-check-mcp-macos-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-x86_64.mcpb) | 2.0 MiB | `native/darwin/x64` |
-| [domain-check-mcp-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-macos-x86_64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
-| [domain-check-mcp-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-windows-x86_64.exe.zip) | 1.9 MiB | `native/win/x64` |
-| [domain-check-mcp-windows-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-mcp-windows-x86_64.mcpb) | 1.9 MiB | `native/win/x64` |
-| [domain-check-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.2/domain-check-windows-x86_64.exe.zip) | 1.5 MiB | `native/win/x64` |
+| [domain-check-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-linux-x86_64-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
+| [domain-check-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-linux-x86_64.tar.gz) | 1.6 MiB | `native/linux/x64` |
+| [domain-check-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [domain-check-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-macos-x86_64.tar.gz) | 1.6 MiB | `native/darwin/x64` |
+| [domain-check-mcp-linux-x86_64-musl.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-linux-x86_64-musl.mcpb) | 2.2 MiB | `native/linux/x64/musl` |
+| [domain-check-mcp-linux-x86_64-musl.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-linux-x86_64-musl.tar.gz) | 2.2 MiB | `native/linux/x64/musl` |
+| [domain-check-mcp-linux-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-linux-x86_64.mcpb) | 2.1 MiB | `native/linux/x64` |
+| [domain-check-mcp-linux-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-linux-x86_64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [domain-check-mcp-macos-aarch64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-macos-aarch64.mcpb) | 1.8 MiB | `native/darwin/arm64` |
+| [domain-check-mcp-macos-aarch64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-macos-aarch64.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
+| [domain-check-mcp-macos-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-macos-x86_64.mcpb) | 2.0 MiB | `native/darwin/x64` |
+| [domain-check-mcp-macos-x86_64.tar.gz](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-macos-x86_64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
+| [domain-check-mcp-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-windows-x86_64.exe.zip) | 1.9 MiB | `native/win/x64` |
+| [domain-check-mcp-windows-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-mcp-windows-x86_64.mcpb) | 2.0 MiB | `native/win/x64` |
+| [domain-check-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.0.3/domain-check-windows-x86_64.exe.zip) | 1.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for domain-check lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T02:36:05Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T03:18:28Z._
