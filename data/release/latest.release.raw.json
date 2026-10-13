@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2140411,
       "digest": "sha256:0146e953edcb1b8b6067b3623d38ca070fdfdefc845aa8bf6d901e5e23033458",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-10-11T22:47:18Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-linux-x86_64-musl.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2064594,
       "digest": "sha256:c17a8de36370e4bf4c24263b361442039ef4bcf445907ffc8b82251d508a8214",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-10-11T22:47:18Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2687627,
       "digest": "sha256:a905e6392c0ae43fd0c7caaa7ee467cbbe65e101cc5859fe80b9265f802fc5f8",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-11T22:47:18Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-linux-x86_64-musl.mcpb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2610828,
       "digest": "sha256:cc980aae48192d12d8589ba17aa6df2aafdaa586b46edd7b489a4101d4d63547",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-linux-x86_64.mcpb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2609846,
       "digest": "sha256:c96c12afb429594b945fe2e4f53ce09b056eb058ea595615c82964b5552dc45d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-linux-x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2242460,
       "digest": "sha256:cc9259c117346dc8a25f768ef4f37c72fcc6a01db3d83f9854553f05df6b8e33",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-macos-aarch64.mcpb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2482007,
       "digest": "sha256:d759e4d50d968d6c078a887f70f917db8a130775ef2bbecfac5fcc6da8ae3cc8",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:20Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-macos-x86_64.mcpb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2340871,
       "digest": "sha256:eddc432251f2aaafa89eaf12d8482169e9e6bcf2511478b6842efe9d39e10660",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:20Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-windows-x86_64.exe.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2471145,
       "digest": "sha256:5d0e903e74387923fc5e305cc9004a2f9013378f6202426bf7e406c6344db9f0",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-11T22:47:20Z",
       "updated_at": "2026-10-11T22:47:20Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-windows-x86_64.mcpb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1861851,
       "digest": "sha256:97c76885bcd053f4ffbe9a5b2772646a0e7c49129c238579e0d739790900c785",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-11T22:47:20Z",
       "updated_at": "2026-10-11T22:47:20Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-windows-x86_64.exe.zip"
