@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2687627,
       "digest": "sha256:a905e6392c0ae43fd0c7caaa7ee467cbbe65e101cc5859fe80b9265f802fc5f8",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-11T22:47:18Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-linux-x86_64-musl.mcpb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2610828,
       "digest": "sha256:cc980aae48192d12d8589ba17aa6df2aafdaa586b46edd7b489a4101d4d63547",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-linux-x86_64.mcpb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2609846,
       "digest": "sha256:c96c12afb429594b945fe2e4f53ce09b056eb058ea595615c82964b5552dc45d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-linux-x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2242460,
       "digest": "sha256:cc9259c117346dc8a25f768ef4f37c72fcc6a01db3d83f9854553f05df6b8e33",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:19Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-macos-aarch64.mcpb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2482007,
       "digest": "sha256:d759e4d50d968d6c078a887f70f917db8a130775ef2bbecfac5fcc6da8ae3cc8",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-11T22:47:19Z",
       "updated_at": "2026-10-11T22:47:20Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-macos-x86_64.mcpb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2471145,
       "digest": "sha256:5d0e903e74387923fc5e305cc9004a2f9013378f6202426bf7e406c6344db9f0",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-11T22:47:20Z",
       "updated_at": "2026-10-11T22:47:20Z",
       "browser_download_url": "https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-windows-x86_64.mcpb"
