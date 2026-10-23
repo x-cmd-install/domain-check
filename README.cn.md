@@ -48,12 +48,12 @@ x install domain-check
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 5 | 1 | 1 | 1 | 33 |
-| last60d | 2026-08-23 | 3 | 5 | 1 | 2 | 1 | 33 |
-| 90d | 2026-07-24 | 3 | 5 | 1 | 2 | 1 | 33 |
-| last180d | 2026-04-25 | 3 | 6 | 1 | 2 | 1 | 34 |
-| 360d | 2025-10-27 | 11 | 15 | 1 | 6 | 3 | 101 |
-| last720d | 2024-11-01 | 13 | 25 | 1 | 11 | 4 | 192 |
+| 30d | 2026-09-23 | 3 | 5 | 1 | 1 | 1 | 33 |
+| last60d | 2026-08-24 | 3 | 5 | 1 | 2 | 1 | 33 |
+| 90d | 2026-07-25 | 3 | 5 | 1 | 2 | 1 | 33 |
+| last180d | 2026-04-26 | 3 | 6 | 1 | 2 | 1 | 34 |
+| 360d | 2025-10-28 | 11 | 15 | 1 | 6 | 3 | 101 |
+| last720d | 2024-11-02 | 13 | 25 | 1 | 11 | 4 | 192 |
 
 ## Release 资产
 
@@ -75,6 +75,15 @@ x install domain-check
 | [domain-check-mcp-windows-x86_64.mcpb](https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-mcp-windows-x86_64.mcpb) | 2.4 MiB | `native/win/x64` |
 | [domain-check-windows-x86_64.exe.zip](https://github.com/saidutt46/domain-check/releases/download/v1.2.0/domain-check-windows-x86_64.exe.zip) | 1.8 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/domain-check) 上共有 **8** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.2.0` | ✅ latest |
+| Nix unstable | `1.0.2` | ⚠️ outdated |
+
 ## 改进这些数据
 
 domain-check 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `domain-check` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +93,4 @@ domain-check 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T02:29:09Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T02:34:00Z._
