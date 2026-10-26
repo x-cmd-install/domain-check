@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: domain-check
   visiblename: domain-check
-  version: 1.2.0
+  version: 1.2.1
   origversion: null
   status: newest
   summary: CLI tool for checking domain availability using RDAP and WHOIS protocols
