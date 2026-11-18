@@ -15,9 +15,9 @@
 - repo: nix_unstable
   srcname: domain-check
   visiblename: domain-check
-  version: 1.0.2
+  version: 1.2.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Tool to check domain availability
   maintainers:
     - mail@fabian-affolter.ch
