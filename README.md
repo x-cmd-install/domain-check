@@ -48,12 +48,12 @@ Total: **11,807** lines of code across **30** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 1 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-18 | 4 | 6 | 1 | 1 | 1 | 36 |
-| 90d | 2026-08-19 | 4 | 6 | 1 | 2 | 1 | 36 |
-| last180d | 2026-05-21 | 4 | 6 | 1 | 2 | 1 | 36 |
-| 360d | 2025-11-22 | 12 | 16 | 1 | 6 | 3 | 104 |
-| last720d | 2024-11-27 | 14 | 26 | 1 | 11 | 4 | 196 |
+| 30d | 2026-10-19 | 1 | 1 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-19 | 4 | 6 | 1 | 1 | 1 | 36 |
+| 90d | 2026-08-20 | 4 | 6 | 1 | 2 | 1 | 36 |
+| last180d | 2026-05-22 | 4 | 6 | 1 | 2 | 1 | 36 |
+| 360d | 2025-11-23 | 12 | 16 | 1 | 6 | 3 | 104 |
+| last720d | 2024-11-28 | 14 | 26 | 1 | 11 | 4 | 196 |
 
 ## Release assets
 
@@ -77,12 +77,12 @@ Total: **11,807** lines of code across **30** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/domain-check). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/domain-check). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.2.1` | ✅ latest |
-| Nix unstable | `1.0.2` | ⚠️ outdated |
+| Nix unstable | `1.2.1` | ✅ latest |
 
 ## Improve this data
 
@@ -93,4 +93,4 @@ Install metadata for domain-check lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T05:44:48Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T05:10:46Z._
